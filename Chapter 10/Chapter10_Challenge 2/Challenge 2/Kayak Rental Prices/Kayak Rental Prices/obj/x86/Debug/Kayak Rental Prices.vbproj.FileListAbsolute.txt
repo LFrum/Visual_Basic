@@ -1,0 +1,27 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayaks.mdf
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayaks_log.ldf
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayak Rental Prices.exe.config
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayak Rental Prices.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayak Rental Prices.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayak Rental Prices.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak_Rental_Prices.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak_Rental_Prices.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak Rental Prices.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak Rental Prices.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak Rental Prices.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayak Rental Prices.exe.config
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak Rental Prices.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak Rental Prices.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak Rental Prices.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayaks.mdf
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayaks_log.ldf
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayak Rental Prices.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayak Rental Prices.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\bin\Debug\Kayak Rental Prices.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak Rental Prices.vbprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak_Rental_Prices.Form1.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak_Rental_Prices.Resources.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 2\Challenge 2\Kayak Rental Prices\Kayak Rental Prices\obj\x86\Debug\Kayak Rental Prices.vbproj.GenerateResource.Cache

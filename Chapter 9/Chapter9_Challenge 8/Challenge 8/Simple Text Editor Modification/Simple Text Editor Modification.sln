@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Simple Text Editor Modification", "Simple Text Editor Modification\Simple Text Editor Modification.vbproj", "{63F5AA8C-0B46-4F04-9E06-EC497432B537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F5AA8C-0B46-4F04-9E06-EC497432B537}.Debug|x86.ActiveCfg = Debug|x86
+		{63F5AA8C-0B46-4F04-9E06-EC497432B537}.Debug|x86.Build.0 = Debug|x86
+		{63F5AA8C-0B46-4F04-9E06-EC497432B537}.Release|x86.ActiveCfg = Release|x86
+		{63F5AA8C-0B46-4F04-9E06-EC497432B537}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

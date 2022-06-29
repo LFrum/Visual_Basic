@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Soccer Team Score Application", "Soccer Team Score Application\Soccer Team Score Application.vbproj", "{150C647F-9979-4B09-8125-FA4D5E9B05AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150C647F-9979-4B09-8125-FA4D5E9B05AD}.Debug|x86.ActiveCfg = Debug|x86
+		{150C647F-9979-4B09-8125-FA4D5E9B05AD}.Debug|x86.Build.0 = Debug|x86
+		{150C647F-9979-4B09-8125-FA4D5E9B05AD}.Release|x86.ActiveCfg = Release|x86
+		{150C647F-9979-4B09-8125-FA4D5E9B05AD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,27 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Company.MDF
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Company_log.ldf
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Sales Staff Salaries.exe.config
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Sales Staff Salaries.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Sales Staff Salaries.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Sales Staff Salaries.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales_Staff_Salaries.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales_Staff_Salaries.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales Staff Salaries.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales Staff Salaries.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales Staff Salaries.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Company.MDF
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Company_log.ldf
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Sales Staff Salaries.exe.config
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Sales Staff Salaries.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Sales Staff Salaries.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\bin\Debug\Sales Staff Salaries.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales Staff Salaries.vbprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales_Staff_Salaries.Form1.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales_Staff_Salaries.Resources.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales Staff Salaries.vbproj.GenerateResource.Cache
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales Staff Salaries.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales Staff Salaries.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 10\Chapter10_Challenge 4\Challenge 4\Sales Staff Salaries\Sales Staff Salaries\obj\x86\Debug\Sales Staff Salaries.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Rumainum_Automotive", "Rumainum_Automotive\Rumainum_Automotive.vbproj", "{F993C021-0A0E-4557-B664-C794F2E3DE98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F993C021-0A0E-4557-B664-C794F2E3DE98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F993C021-0A0E-4557-B664-C794F2E3DE98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F993C021-0A0E-4557-B664-C794F2E3DE98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F993C021-0A0E-4557-B664-C794F2E3DE98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\bin\Debug\Cell Phone Packages.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\bin\Debug\Cell Phone Packages.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\bin\Debug\Cell Phone Packages.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell_Phone_Packages.MainForm.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell_Phone_Packages.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell_Phone_Packages.FamilyForm.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell_Phone_Packages.IndividualForm.resources
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 07\Challenge 3\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 07\Challenge 3\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 07\Challenge 3\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 3\Challenge 3\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 3\Challenge 3\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 3\Challenge 3\Cell Phone Packages\Cell Phone Packages\obj\x86\Debug\Cell Phone Packages.pdb

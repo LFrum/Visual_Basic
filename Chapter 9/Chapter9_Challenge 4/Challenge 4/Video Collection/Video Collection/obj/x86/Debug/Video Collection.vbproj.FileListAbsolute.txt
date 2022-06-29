@@ -1,0 +1,22 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\bin\Debug\Video Collection.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\bin\Debug\Video Collection.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\bin\Debug\Video Collection.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\obj\x86\Debug\Video_Collection.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\obj\x86\Debug\Video_Collection.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\obj\x86\Debug\Video Collection.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\obj\x86\Debug\Video Collection.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Video Collection\Video Collection\obj\x86\Debug\Video Collection.pdb
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\obj\x86\Debug\Video Collection.exe
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\obj\x86\Debug\Video Collection.xml
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\obj\x86\Debug\Video Collection.pdb
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\bin\Debug\Video Collection.exe
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\bin\Debug\Video Collection.pdb
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\bin\Debug\Video Collection.xml
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\obj\x86\Debug\Video_Collection.Form1.resources
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\obj\x86\Debug\Video_Collection.Resources.resources
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 7 - 9 (zip)\Solutions Chapters 7 - 9\Chapter 09\Challenge 4\Video Collection\Video Collection\obj\x86\Debug\GenerateResource.write.1.tlog

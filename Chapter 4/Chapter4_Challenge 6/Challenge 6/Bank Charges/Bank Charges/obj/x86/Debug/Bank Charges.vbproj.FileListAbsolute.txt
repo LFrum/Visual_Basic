@@ -1,0 +1,24 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\bin\Debug\Bank Charges.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\bin\Debug\Bank Charges.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\bin\Debug\Bank Charges.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\obj\x86\Debug\Bank_Charges.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\obj\x86\Debug\Bank_Charges.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\bin\Debug\Bank Charges.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\bin\Debug\Bank Charges.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\bin\Debug\Bank Charges.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.vbprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank_Charges.Form1.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank_Charges.Resources.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 6\Challenge 6\Bank Charges\Bank Charges\obj\x86\Debug\Bank Charges.vbproj.GenerateResource.Cache

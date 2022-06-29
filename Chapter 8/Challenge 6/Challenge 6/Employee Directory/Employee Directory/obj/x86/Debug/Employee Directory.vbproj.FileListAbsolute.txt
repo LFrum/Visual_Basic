@@ -1,0 +1,12 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\bin\Debug\Employee Directory.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\bin\Debug\Employee Directory.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\bin\Debug\Employee Directory.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\obj\x86\Debug\Employee_Directory.EmployeeForm.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\obj\x86\Debug\Employee_Directory.MainForm.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\obj\x86\Debug\Employee_Directory.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\obj\x86\Debug\Employee Directory.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\obj\x86\Debug\Employee Directory.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Employee Directory\Employee Directory\obj\x86\Debug\Employee Directory.pdb

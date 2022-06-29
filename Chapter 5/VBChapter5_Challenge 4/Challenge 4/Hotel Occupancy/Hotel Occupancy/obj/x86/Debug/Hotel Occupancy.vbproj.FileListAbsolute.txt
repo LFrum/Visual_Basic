@@ -1,0 +1,26 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\bin\Debug\Hotel Occupancy.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\bin\Debug\Hotel Occupancy.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\bin\Debug\Hotel Occupancy.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel_Occupancy.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel_Occupancy.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\C Sharp\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.pdb
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.exe
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.xml
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\bin\Debug\Hotel Occupancy.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\bin\Debug\Hotel Occupancy.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\bin\Debug\Hotel Occupancy.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel_Occupancy.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel_Occupancy.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.vbproj.GenerateResource.Cache
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 4\Hotel Occupancy\Hotel Occupancy\obj\x86\Debug\Hotel Occupancy.pdb

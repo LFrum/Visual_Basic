@@ -1,0 +1,14 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\bin\Debug\Carpet Price Calculator.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\Carpet_Price_Calculator.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\Carpet_Price_Calculator.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\Carpet Price Calculator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\Carpet Price Calculator.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\Carpet Price Calculator.pdb
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 2\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\Carpet Price Calculator.exe
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 2\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\Carpet Price Calculator.xml
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 2\Carpet Price Calculator\Carpet Price Calculator\obj\x86\Debug\Carpet Price Calculator.pdb

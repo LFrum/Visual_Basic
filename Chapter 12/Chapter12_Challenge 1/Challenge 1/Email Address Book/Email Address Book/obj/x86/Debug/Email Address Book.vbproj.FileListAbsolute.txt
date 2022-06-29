@@ -1,0 +1,26 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\bin\Debug\Email Address Book.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\bin\Debug\Email Address Book.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\Email_Address_Book.MainForm.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\Email_Address_Book.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\Email Address Book.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\Email Address Book.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\Email Address Book.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\Email_Address_Book.AddForm.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Email Address Book\Email Address Book\obj\x86\Debug\Email_Address_Book.EditForm.resources
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\Email Address Book.exe
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\Email Address Book.xml
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\Email Address Book.pdb
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\bin\Debug\Email Address Book.exe
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\bin\Debug\Email Address Book.pdb
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\bin\Debug\Email Address Book.xml
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\Email_Address_Book.AddForm.resources
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\Email_Address_Book.EditForm.resources
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\Email_Address_Book.MainForm.resources
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\Email_Address_Book.Resources.resources
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Fall2011\2453\ProgrammingChallenges\Solutions for Programming Challenges - Chs 10 - 12 (zip)\Solutions Chapters 10 - 12\Chapter 12\Challenge 1\Email Address Book\Email Address Book\obj\x86\Debug\GenerateResource.write.1.tlog

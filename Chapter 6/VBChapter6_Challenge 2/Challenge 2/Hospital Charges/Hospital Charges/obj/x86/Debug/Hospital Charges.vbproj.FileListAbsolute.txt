@@ -1,0 +1,25 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital_Charges.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital_Charges.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital Charges.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital Charges.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital Charges.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital Charges.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital Charges.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital Charges.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\bin\Debug\Hospital Charges.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital_Charges.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital_Charges.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital Charges.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital Charges.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 2\Hospital Charges\Hospital Charges\obj\x86\Debug\Hospital Charges.pdb

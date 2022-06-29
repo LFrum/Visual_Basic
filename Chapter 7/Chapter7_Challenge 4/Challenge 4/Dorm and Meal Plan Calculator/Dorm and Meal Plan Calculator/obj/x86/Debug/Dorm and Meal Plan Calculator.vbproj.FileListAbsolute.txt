@@ -1,0 +1,6 @@
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 07\Challenge 4\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\x86\Debug\Dorm and Meal Plan Calculator.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 07\Challenge 4\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\x86\Debug\Dorm and Meal Plan Calculator.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 07\Challenge 4\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\x86\Debug\Dorm and Meal Plan Calculator.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 4\Challenge 4\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\x86\Debug\Dorm and Meal Plan Calculator.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 4\Challenge 4\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\x86\Debug\Dorm and Meal Plan Calculator.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 4\Challenge 4\Dorm and Meal Plan Calculator\Dorm and Meal Plan Calculator\obj\x86\Debug\Dorm and Meal Plan Calculator.pdb

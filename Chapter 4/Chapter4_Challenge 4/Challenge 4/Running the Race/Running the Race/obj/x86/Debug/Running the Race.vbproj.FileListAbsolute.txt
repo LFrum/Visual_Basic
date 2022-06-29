@@ -1,0 +1,33 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\bin\Debug\Running the Race.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\obj\x86\Debug\Running_the_Race.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\obj\x86\Debug\Running_the_Race.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\obj\x86\Debug\Running the Race.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\obj\x86\Debug\Running the Race.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Running the Race\Running the Race\obj\x86\Debug\Running the Race.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\bin\Debug\Running the Race.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\bin\Debug\Running the Race.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\bin\Debug\Running the Race.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running_the_Race.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running_the_Race.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.vbproj.GenerateResource.Cache
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 04\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\bin\Debug\Running the Race.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\bin\Debug\Running the Race.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\bin\Debug\Running the Race.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.vbprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running_the_Race.Form1.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running_the_Race.Resources.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 4\Chapter4_Challenge 4\Challenge 4\Running the Race\Running the Race\obj\x86\Debug\Running the Race.vbproj.GenerateResource.Cache

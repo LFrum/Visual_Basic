@@ -1,0 +1,20 @@
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest Smallest Array Values.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest Smallest Array Values.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest Smallest Array Values.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest_Smallest_Array_Values.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest_Smallest_Array_Values.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest Smallest Array Values.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest Smallest Array Values.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest Smallest Array Values.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\bin\Debug\Largest Smallest Array Values.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest_Smallest_Array_Values.Form1.resources
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest_Smallest_Array_Values.Resources.resources
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 08\Challenge 1\Largest Smallest Array Values\Largest Smallest Array Values\obj\x86\Debug\Largest Smallest Array Values.vbproj.GenerateResource.Cache

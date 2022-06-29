@@ -1,0 +1,11 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\bin\Debug\Travel Expenses.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel_Expenses.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Travel Expenses\Travel Expenses\obj\x86\Debug\Travel Expenses.pdb

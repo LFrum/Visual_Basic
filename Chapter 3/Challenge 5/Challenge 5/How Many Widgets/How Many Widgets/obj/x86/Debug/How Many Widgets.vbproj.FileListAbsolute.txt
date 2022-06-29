@@ -1,0 +1,35 @@
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\bin\Debug\How Many Widgets.exe
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\bin\Debug\How Many Widgets.pdb
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\bin\Debug\How Many Widgets.xml
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\obj\x86\Debug\How_Many_Widgets.Form1.resources
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\obj\x86\Debug\How_Many_Widgets.Resources.resources
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.exe
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.xml
+C:\Users\Chris\documents\visual studio 10\Projects\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\bin\Debug\How Many Widgets.exe
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\bin\Debug\How Many Widgets.pdb
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\bin\Debug\How Many Widgets.xml
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How_Many_Widgets.Form1.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How_Many_Widgets.Resources.resources
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\sovb12\Chapt_03\prog_challenges\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 1 - 3\Chapter 03\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\bin\Debug\How Many Widgets.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\bin\Debug\How Many Widgets.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\bin\Debug\How Many Widgets.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.vbprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How_Many_Widgets.Form1.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How_Many_Widgets.Resources.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 3\Challenge 5\Challenge 5\How Many Widgets\How Many Widgets\obj\x86\Debug\How Many Widgets.vbproj.GenerateResource.Cache

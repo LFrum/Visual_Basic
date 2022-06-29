@@ -1,0 +1,14 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\bin\Debug\Dice Simulator.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\obj\x86\Debug\Dice_Simulator.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\obj\x86\Debug\Dice_Simulator.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\obj\x86\Debug\Dice Simulator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\obj\x86\Debug\Dice Simulator.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Dice Simulator\Dice Simulator\obj\x86\Debug\Dice Simulator.pdb
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 16\Dice Simulator\Dice Simulator\obj\x86\Debug\Dice Simulator.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 16\Dice Simulator\Dice Simulator\obj\x86\Debug\Dice Simulator.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 16\Dice Simulator\Dice Simulator\obj\x86\Debug\Dice Simulator.pdb

@@ -1,0 +1,26 @@
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\bin\Debug\Rumainum_InventoryFile.exe.config
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\bin\Debug\Rumainum_InventoryFile.exe
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\bin\Debug\Rumainum_InventoryFile.pdb
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\bin\Debug\Rumainum_InventoryFile.xml
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.vbprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.frmAdd.resources
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.frmMain.resources
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.Resources.resources
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.frmUpdate.resources
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.vbproj.GenerateResource.Cache
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.exe
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.xml
+C:\Users\Lince\Documents\Spring 2017\C++\FinalProject\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\bin\Debug\Rumainum_InventoryFile.exe.config
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\bin\Debug\Rumainum_InventoryFile.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\bin\Debug\Rumainum_InventoryFile.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\bin\Debug\Rumainum_InventoryFile.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.vbprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.frmAdd.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.frmMain.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.Resources.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.frmUpdate.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.vbproj.GenerateResource.Cache
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Rumainum_InventoryFile\Rumainum_InventoryFile\obj\Debug\Rumainum_InventoryFile.pdb

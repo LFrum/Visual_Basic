@@ -1,0 +1,14 @@
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 07\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference Registration System.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 07\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference Registration System.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 7 - 9\Chapter 07\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference Registration System.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference Registration System.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference Registration System.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference Registration System.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.exe
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.pdb
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\bin\Debug\Conference Registration System.xml
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference Registration System.vbprojResolveAssemblyReference.cache
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference_Registration_System.MainForm.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference_Registration_System.Resources.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference_Registration_System.OptionsForm.resources
+C:\Users\Lince\Documents\Spring 2017\Visual Basic\Chapter 7\Chapter7_Challenge 1\Challenge 1\Conference Registration System\Conference Registration System\obj\x86\Debug\Conference Registration System.vbproj.GenerateResource.Cache

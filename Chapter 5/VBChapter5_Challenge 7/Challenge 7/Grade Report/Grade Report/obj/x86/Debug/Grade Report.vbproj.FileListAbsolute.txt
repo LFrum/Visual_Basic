@@ -1,0 +1,26 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\bin\Debug\Grade Report.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\bin\Debug\Grade Report.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\bin\Debug\Grade Report.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\obj\x86\Debug\Grade_Report.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\obj\x86\Debug\Grade_Report.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\obj\x86\Debug\Grade Report.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\obj\x86\Debug\Grade Report.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Grade Report\Grade Report\obj\x86\Debug\Grade Report.pdb
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.exe
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.xml
+C:\Users\Chris\Desktop\VB 2010\Programming Challenges\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\bin\Debug\Grade Report.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\bin\Debug\Grade Report.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\bin\Debug\Grade Report.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade_Report.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade_Report.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.vbproj.GenerateResource.Cache
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 05\Challenge 7\Grade Report\Grade Report\obj\x86\Debug\Grade Report.pdb

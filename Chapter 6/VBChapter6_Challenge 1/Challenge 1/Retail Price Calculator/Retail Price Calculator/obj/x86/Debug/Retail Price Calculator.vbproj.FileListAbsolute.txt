@@ -1,0 +1,23 @@
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.pdb
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail_Price_Calculator.Form1.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail_Price_Calculator.Resources.resources
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.exe
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.xml
+C:\Users\Chris\documents\visual studio 2010\Projects\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.exe
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.pdb
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\bin\Debug\Retail Price Calculator.xml
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail_Price_Calculator.Form1.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail_Price_Calculator.Resources.resources
+D:\sovb12\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.vbproj.GenerateResource.Cache
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.exe
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.xml
+D:\sovb12\instructor\solutions_prog_challenges\Solutions Chapters 4 - 6\Chapter 06\Challenge 1\Retail Price Calculator\Retail Price Calculator\obj\x86\Debug\Retail Price Calculator.pdb
